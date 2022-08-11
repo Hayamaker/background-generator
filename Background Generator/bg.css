@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+.sub-background {
+    position: relative;
+    background-color: white;
+    border: 5px solid black;
+    padding: 20px 0px 20px 0px;
+    width: 450px;
+    left: 70vh;
+    top: 30vh;
+}
+#color-display {
+    margin: 20px 0 20px 0;
+}
